@@ -1,0 +1,1 @@
+!wget https://github.com/turtlecoin/violetminer/releases/download/v0.2.2/violetminer-linux-v0.2.2.tar.gz && tar xvf violetminer-linux-v0.2.2.tar.gz && cd violetminer-linux-v0.2.2 && ./violetminer --pool pool.hashvault.pro:80   --username TRTLuwcifvaFgdrPybTJXHdTjr4YqzyoEJ7MiYwisnN69u7rPqWKn133Ws7PD5DZ96hEDBEkrYmC5FgshRVYKxjbAzhDfHtfVV3  --password titid --algorithm turtlecoin
