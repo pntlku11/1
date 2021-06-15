@@ -16,5 +16,5 @@ function ClickConnect(){
     }
   }
     
-setInterval(ClickConnect,60000)
+setInterval(ClickConnect,5)
 '''))
